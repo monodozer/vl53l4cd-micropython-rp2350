@@ -1,5 +1,5 @@
 # vl53l4cd-micropython-rp2350
-i build a vl53l4cd distancesensor liblrary for micropython.
+i build a vl53l4cd distancesensor library for micropython.
 
 library is vl53l4cd.py
 and a check test.py
