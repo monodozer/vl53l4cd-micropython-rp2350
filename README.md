@@ -4,7 +4,7 @@ vl53l4cd distancesensor library for micropython.
 library is vl53l4cd.py
 and a check testprogramm.py
 
-you can change internal mesurment and timing budget in vl53l4cd.py
+you can change internal mesurement and timing budget in vl53l4cd.py
 
         # 4. HIGH SPEED SETUP (100Hz / 10ms)
         
